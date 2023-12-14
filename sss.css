@@ -1,0 +1,29 @@
+body {
+	background-image: url('imgs/TWl061z.jpeg');
+	background-size: cover;
+	background-position: center;
+	padding-top: 70px;
+
+}
+
+h2 {
+    background-color: rgba(124, 108, 97, 0.5);
+    border-radius: 15px;
+}
+
+footer {
+
+    background-color: rgb(99, 89, 89, 0.5);
+    margin: 30px;
+    border-radius: 50px;
+}
+
+.addimg ,.addImgBtn{
+    background-color: rgb(199, 161, 73);
+    display: grid;
+    text-align: center;
+    border-radius: 50px;
+    border: none;
+    text-decoration: none;
+
+}

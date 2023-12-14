@@ -25,5 +25,6 @@ document.addEventListener('DOMContentLoaded', function () {
         newAnchor.appendChild(newImage);
 
         gallery.appendChild(newAnchor);
+        $(gallery).lightbox();
     }
 });
